@@ -1,0 +1,53 @@
+﻿  Creating makefile for LazerActorEditor (ini files are newer than UBTMakefile)
+  Parsing headers for LazerActorEditor
+    Running UnrealHeaderTool "G:\LazerActor\LazerActor.uproject" "G:\LazerActor\Intermediate\Build\Win64\LazerActorEditor\Development\LazerActorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for LazerActorEditor in 8,1833208 seconds
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-1409.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-1409.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-2009.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-2009.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3026.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3026.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3232.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3232.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3408.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-3408.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-4253.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-4253.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-4658.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-4658.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-668.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-668.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-823.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-823.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-8445.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-8445.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-8656.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-8656.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-9768.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-9768.pdb".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-9906.dll".
+  Deleting old hot reload file: "G:\LazerActor\Binaries\Win64\UE4Editor-LazerActor-9906.pdb".
+  Distributing 3 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  Failed to connect to Coordinator:
+      All builds will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  FPSCharacter.cpp (0:22.65 at +0:00)
+  UE4Editor-LazerActor.dll (0:01.01 at +0:22)
+     ╤ючфрхЄё  сшсышюЄхър G:\LazerActor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LazerActor.suppressed.lib ш юс·хъЄ G:\LazerActor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LazerActor.suppressed.exp
+  UE4Editor-LazerActor.lib (0:00.18 at +0:23)
+     ╤ючфрхЄё  сшсышюЄхър G:\LazerActor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LazerActor.lib ш юс·хъЄ G:\LazerActor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LazerActor.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - Failed to connect to Coordinator
+   
+  
+  
+  Deploying LazerActorEditor Win64 Development...
+  Total build time: 41,44 seconds (XGE executor: 24,21 seconds)

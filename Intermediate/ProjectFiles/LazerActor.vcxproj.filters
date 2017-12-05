@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LazerActor.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8694710D-13C7-4E53-B170-9E6C9507FA7F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LazerActor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LazerActorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6218CC5F-9321-4686-9DD1-038122C30B97}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LazerActor">
+      <UniqueIdentifier>{81FE5369-E443-49C8-BC02-04D76A8A6F0C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LazerActor\LazerActor.Build.cs">
+      <Filter>Source\LazerActor</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LazerActor\LazerActor.cpp">
+      <Filter>Source\LazerActor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LazerActor\LazerActor.h">
+      <Filter>Source\LazerActor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LazerActor\LazerActorGameModeBase.cpp">
+      <Filter>Source\LazerActor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LazerActor\LazerActorGameModeBase.h">
+      <Filter>Source\LazerActor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\LazerActor\FPSCharacter.h">
+      <Filter>Source\LazerActor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\LazerActor\FPSCharacter.cpp">
+      <Filter>Source\LazerActor</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
